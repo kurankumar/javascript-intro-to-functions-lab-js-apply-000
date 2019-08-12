@@ -26,5 +26,9 @@ function sayHiToGrandma(string){
   return "YES INDEED!"
   }
   
+  if (string != lowerString && upperString){
+    return "I love you, too."
+  }
+  
   
 }
